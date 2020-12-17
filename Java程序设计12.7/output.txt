@@ -1,0 +1,4 @@
+	学号	姓名	年龄
+	2031	Kismel	18
+	2019	Karbob	19
+	1823	Stresl	31
